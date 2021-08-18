@@ -1,0 +1,28 @@
+Index,Question,Answer,Validity,Score
+8,Where can I find a degree or above?,a Higher Education Provider,YES,2.009432077407837
+9,What is the minimum level of education required to be a student in the UK?,4,YES,0.28234443068504333
+10,How old are you?,18,YES,1.1693781614303589
+11,How old are you?,18,YES,1.1693781614303589
+15,Where can you arrive before your course starts?,UK,YES,1.6914278268814087
+16,how long can you arrive in the UK before your course starts?,up to 1 week before,YES,3.237917900085449
+17,how long does a course last?,6 months,YES,2.096214532852173
+18,how long can you arrive in the UK before your course starts?,up to 1 month before,YES,3.239283323287964
+19,how long does a course last?,more than 6 months,YES,2.0307424068450928
+21,Where can you switch to a Student visa?,UK,YES,2.548621892929077
+22,What is the requirement to switch to a student visa?,CAS,YES,0.35901495814323425
+24,How can you prove your English knowledge?,a Secure English Language Test,YES,3.1147444248199463
+26,How many English levels do you have?,4,YES,2.293703079223633
+27,How many English levels do you have?,5,YES,2.385652780532837
+30,Where can you prove your English knowledge?,UK,YES,1.9396288394927979
+31,How old are you?,under 18,YES,2.5213265419006348
+32,Where can I apply?,UK,YES,2.253574848175049
+33,Where can I apply?,UK,YES,2.253574848175049
+34,How long does it take to apply?,3 weeks,YES,2.695648193359375
+35,Where can you apply to extend your visa?,UK,YES,2.675482749938965
+36,Where can you apply to extend your visa?,UK,YES,2.675482749938965
+37,what type of visa do you need to apply for?,Student,YES,0.927922248840332
+40,Where can you apply to extend your visa?,UK,YES,2.675482749938965
+43,What type of passport do you need to prove your identity?,UKVI,YES,1.1218208074569702
+46,Where can you extend your visa?,UK,YES,2.6367359161376953
+49,What is the minimum level of education required for a new course?,HEP,YES,1.5572127103805542
+50,What is the minimum age for a new course?,4,YES,1.4309121370315552
